@@ -1,0 +1,6 @@
+[submodule "UI"]
+	path = UI
+	url = git@github.com:sebastian-chang/gloomhaven-ui.git
+[submodule "API"]
+	path = API
+	url = git@github.com:sebastian-chang/gloomhaven-api.git
